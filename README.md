@@ -4,8 +4,6 @@ Hi 👋 My name is Yiğit
 Editor & Developer
 ------------------
 
-I Can Make Fragmovie Edit, I Can Code Minecraft Client
-
 * 🌍  I'm based in Turkey
 
 <a href="https://www.github.com/thebiscuitaep" target="_blank" rel="noreferrer"><img
